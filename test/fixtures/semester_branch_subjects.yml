@@ -1,0 +1,11 @@
+# Read about fixtures at http://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+one:
+  semester: one
+  branch: one
+  subject: one
+
+two:
+  semester: two
+  branch: two
+  subject: two
